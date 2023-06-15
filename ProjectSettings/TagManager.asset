@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Coin
   - key
+  - water
   layers:
   - Default
   - TransparentFX
